@@ -1,0 +1,34 @@
+/* estilo css para el titulo */
+
+#Título  {
+    color :indianred;
+}
+
+/* estilo Css para el texto*/
+
+ p {
+    font-family: Georgia, 'Times New Roman', Times, serif; /* cambia la fuente a letra Georgia*/
+}
+
+footer{
+
+background-color:gainsboro;
+color:indianred;
+text-align: center;
+padding:25px;
+margin-top:50px;
+
+}
+
+h1 {
+    background-color:gainsboro;
+    color:cornsilk;
+    text-align: center;
+    padding:25px;
+    margin-top:50px;
+}
+
+
+
+
+
