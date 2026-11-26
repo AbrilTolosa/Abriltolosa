@@ -10,6 +10,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif; /* cambia la fuente a letra Georgia*/
 }
 
+/* pone estilo al pie de pagina, cambia el color del fondo,  */
 footer{
 
 background-color:gainsboro;
@@ -20,12 +21,18 @@ margin-top:50px;
 
 }
 
-h1 {
+h1 { 
     background-color:gainsboro;
     color:cornsilk;
-    text-align: center;
+    text-align: center; 
     padding:25px;
     margin-top:50px;
+}
+/*cambia el color del fondo, alinea el texto en el centro */
+
+h2 {
+    background-color:gainsboro ;
+    color:lightcoral;
 }
 
 
